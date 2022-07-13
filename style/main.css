@@ -110,6 +110,7 @@ header nav a:hover {
 }
 
 .games-carousel {
+    margin-top: 30px;
     margin-bottom: 50px;
     transition: 150ms ease all;
 }
@@ -128,4 +129,5 @@ header nav a:hover {
     padding: 1%;
 
 }
+
 
