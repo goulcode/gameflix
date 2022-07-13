@@ -1,9 +1,9 @@
-# netflix
+# Gameflix (recriação do netflix)
 Recriação do netflix com roupagem para a área de jogos.
 Gameflix criado com a utilização de HTML, CSS e owl carousel!
 
-# versão desktop
+# Versão Desktop
 ![](resources/readme/gameflix-desktop.png)
 
-# versão mobile
+# Versão Mobile
 ![](resources/readme/gameflix-mobile.png)
